@@ -2,7 +2,7 @@
 
 ![Visualisierung eines Twitterarchives zu #closedbutopen](http://vdhd2021.hypotheses.org/files/2021/01/408-tags-archive-bsb-Visualisierung-eines-Twitterarchivs-zu-closedbutopen-erstellt-mit-TAGS-Explorer-CC-O.jpg)
 
-**Einreichungsteam**: Ulrike Wuttke, Fachhochschule Potsdam (@UWuttke) | Daniel Brenn (@galdring) | Lisa Kolodzie (@pink_pintera) | Mareike König (@mareike2405)
+**Einreichungsteam**: Ulrike Wuttke, Fachhochschule Potsdam (@UWuttke); Daniel Brenn (@galdring); Lisa Kolodzie (@pink_pintera); Mareike König (@mareike2405)
 
 **Superexperiment Daten- & Toolbuddies**
 
