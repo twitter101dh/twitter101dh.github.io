@@ -17,6 +17,6 @@ Weitere Informationen folgen hier in Kürze.
 
 ## Termine der Datensalons:
 1. [Tweet-Scraping](/datensalon1.md): Erstellen des Corpus und Vorbereitung: Montag, 08.03.2021, 16-18 Uhr
-1. Forschungsfragen entwickeln!: Montag, 15.03.2021, 16-18 Uhr
-1. Netzwerkanalysen: Montag, 22.03.2021, 16-18 Uhr
-1. Inhaltliche Analysen: Montag, 30.03.2021, 16-18 Uhr
+2. [Forschungsfragen entwickeln!](/datensalon2.md): Montag, 15.03.2021, 16-18 Uhr
+3. [Netzwerkanalysen](/datensalon3.md): Montag, 22.03.2021, 16-18 Uhr
+4. [Inhaltliche Analysen](/datensalon4.md): Montag, 30.03.2021, 16-18 Uhr
