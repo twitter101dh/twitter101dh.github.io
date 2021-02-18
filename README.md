@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# twitter101dh: Super-Experiment zu Twitter, Bibliotheken und COVID-19
 
-You can use the [editor on GitHub](https://github.com/twitter101dh/twitter101dh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Foto von der Einreichung https://vdhd2021.hypotheses.org/tag/t]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Einreichungsteam**: Ulrike Wuttke, Fachhochschule Potsdam (@UWuttke) | Daniel Brenn (@galdring) | Lisa Kolodzie (@pink_pintera) | Mareike König (@mareike2405)
+**Superexperiment Daten- & Toolbuddies**
 
-### Markdown
+In unserem Twitter-Labor im Rahmen der [vDHd2021](https://vdhd2021.hypotheses.org/) wollen wir verschiedene Experimente rund um Twitterdaten zum Thema Covid19 und Bibliotheken durchführen: angefangen vom Scrapen, über use cases zur Analyse von Kommunikationsverhalten, Inhalten (wie wandeln sie sich und ihre Angebote, auch für Mitarbeiter:innen) und Netzwerken von Bibliotheken und Bibliothekar*innen. Das Twitter-Labor richtet sich an Einsteiger*innen auf dem Gebiet, die Tweet-Experimente schon immer spannend fanden, aber nicht wissen, wie sie es anstellen sollen. Wir lernen und experimentieren gemeinsam unter der Anleitung von erfahrenen Daten- und Tool-Buddies in vier Datensalons: Tweet-Scraping, Forschungsfragen entwickeln, Netzwerkanalysen und Inhaltliche Analysen. Rechtliche und ethische Fragen werden in unseren Twitter-Experimenten ebenfalls Gegenstand der Diskussionen sein.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Weitere Informationen folgen hier in Kürze.
 
-```markdown
-Syntax highlighted code block
+##Bewerbung##
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twitter101dh/twitter101dh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Termine der Datensalons:
+1. Tweet-Scraping: Erstellen des Corpus und Vorbereitung: Montag, 08.03.2021, 16-18 Uhr
+1. Forschungsfragen entwickeln!: Montag, 15.03.2021, 16-18 Uhr
+1. Netzwerkanalysen: Montag, 22.03.2021, 16-18 Uhr
+1. Inhaltliche Analysen: Montag, 30.03.2021, 16-18 Uhr
