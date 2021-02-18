@@ -25,6 +25,7 @@
 
  [Link](url) and ![Image](src)
  ```
+relative linking is done in the same format, e.g. [Datensalon1] (/datensalon1.md)
 
  For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
