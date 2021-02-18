@@ -33,6 +33,9 @@ relative linking is done in the same format, e.g. [Datensalon1] (/datensalon1.md
 
  Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twitter101dh/twitter101dh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Create a new subpage
+You can create a new subpage by using Github's graphic interface and clicking "Add file". Make sure to name the subpage .md so Github knows it's a Markdown file :)
+
  ### Support or Contact
 
  Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
