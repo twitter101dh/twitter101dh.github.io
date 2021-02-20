@@ -2,3 +2,5 @@
 ## Netzwerkanalysen
 
 **Termine**: Montag, 22.03.2021, 16-18 Uhr
+
+[Ressourcen](/datensalon3_ressourcen.md)
