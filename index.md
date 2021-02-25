@@ -11,15 +11,14 @@
 In unserem Twitter-Labor im Rahmen der [vDHd2021](https://vdhd2021.hypotheses.org/) wollen wir verschiedene Experimente rund um Twitterdaten zum Thema Covid19 und Bibliotheken durchführen: angefangen vom Scrapen, über use cases zur Analyse von Kommunikationsverhalten, Inhalten (wie wandeln sie sich und ihre Angebote, auch für Mitarbeiter:innen) und Netzwerken von Bibliotheken und Bibliothekar:innen (siehe auch unten die ausführliche Beschreibung). 
 Das Twitter-Labor richtet sich an Einsteiger:innen auf dem Gebiet, die Tweet-Experimente schon immer spannend fanden, aber nicht wissen, wie sie es anstellen sollen. Wir lernen und experimentieren gemeinsam unter der Anleitung von erfahrenen Daten- und Tool-Buddies in vier Datensalons: Tweet-Scraping, Forschungsfragen entwickeln, Netzwerkanalysen und Inhaltliche Analysen. Rechtliche und ethische Fragen werden in unseren Twitter-Experimenten ebenfalls Gegenstand der Diskussionen sein.
 
-Weitere Informationen folgen hier in Kürze (Seite befindet sich im Aufbau).
-
-## Bewerbung
-
 ## Termine der Datensalons:
 1. [Tweet-Scraping](/datensalon1.md): Erstellen des Corpus und Vorbereitung: Montag, 08.03.2021, 16-18 Uhr
 2. [Forschungsfragen entwickeln!](/datensalon2.md): Montag, 15.03.2021, 16-18 Uhr
 3. [Netzwerkanalysen](/datensalon3.md): Montag, 22.03.2021, 16-18 Uhr
 4. [Inhaltliche Analysen](/datensalon4.md): Montag, 30.03.2021, 16-18 Uhr
+
+## Bewerbung: Call for Tweets: Teilnehmende für Twitter-Superexperiment “BIbliotheken und Covid-19” gesucht #twitter101dh
+Weitere Informationen folgen hier in Kürze (Seite befindet sich im Aufbau).
 
 ## Ausführliche Beschreibung des Super-Experiments 
 
