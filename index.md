@@ -18,7 +18,7 @@ Das Twitter-Labor richtet sich an Einsteiger:innen auf dem Gebiet, die Tweet-Exp
 4. [Inhaltliche Analysen](/datensalon4.md): Montag, 30.03.2021, 16-18 Uhr
 
 ## Bewerbung: Call for Tweets: Teilnehmende für Twitter-Superexperiment “BIbliotheken und Covid-19” gesucht #twitter101dh
-Weitere Informationen folgen hier in Kürze (Seite befindet sich im Aufbau).
+Weitere Informationen [hier](/bewerbung.md).
 
 ## Ausführliche Beschreibung des Super-Experiments 
 
