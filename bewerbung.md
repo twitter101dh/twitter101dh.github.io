@@ -7,10 +7,10 @@ Nun seid Ihr gefragt! Ihr wolltet schon immer mal ausprobieren, wie Twitter-Scra
 
 Wir planen eine umfassende Dokumentation unserer Experimente mit allen Sackgassen, Hintertüren und Workarounds. Dafür bitten wir die Teilnehmenden, sich mit kurzen Blogposts oder ähnlichem an der gemeinsamen Dokumentation zu beteiligen bzw. Tools und Methoden im Rahmen eines Datansalons vorzustellen. 
 
-Montag, 08.03.2021, 16-18 Uhr: Tweet-Scraping: Erstellen des Corpus und Vorbereitung. Mit Paul Ramisch
-Montag, 15.03.2021, 16-18 Uhr: Forschungsfragen entwickeln!: 
-Montag, 22.03.2021, 16-18 Uhr: Netzwerkanalysen: Mit Sophie Schneider und Paul Ramisch
-Montag, 30.03.2021, 16-18 Uhr: Inhaltliche Analysen: 
+1. Montag, 08.03.2021, 16-18 Uhr: Tweet-Scraping: Erstellen des Corpus und Vorbereitung. Mit Paul Ramisch
+1. Montag, 15.03.2021, 16-18 Uhr: Forschungsfragen entwickeln!: 
+1. Montag, 22.03.2021, 16-18 Uhr: Netzwerkanalysen: Mit Sophie Schneider und Paul Ramisch
+1. Montag, 30.03.2021, 16-18 Uhr: Inhaltliche Analysen: 
 
 
 Weitere Infos unter: [https://twitter101dh.github.io/](https://twitter101dh.github.io/)
