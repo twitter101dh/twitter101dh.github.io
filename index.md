@@ -4,7 +4,7 @@
 
 **Einreichungsteam**: Ulrike Wuttke, Fachhochschule Potsdam ([@UWuttke](https://twitter.com/UWuttke)); Daniel Brenn ([@galdring](https://twitter.com/galdring)); Lisa Kolodzie ([@pink_pintera](https://twitter.com/pink_pintera)); Mareike König ([@Mareike2405](https://twitter.com/Mareike2405))
 
-**Superexperiment Daten- & Toolbuddies**: Sophie Schneider ([@Bibwiss](https://twitter.com/BibWiss)), Paul Ramisch 
+**Superexperiment Daten- & Toolbuddies**: Sophie Schneider ([@Bibwiss](https://twitter.com/BibWiss)), Paul Ramisch ([@paul_ramisch](https://twitter.com/paul_ramisch))
 
 **Twitter-Hashtag**: #twitter101dh
 
