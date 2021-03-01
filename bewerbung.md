@@ -10,7 +10,7 @@ Wir planen eine umfassende Dokumentation unserer Experimente mit allen Sackgasse
 1. Montag, 08.03.2021, 16-18 Uhr: Tweet-Scraping: Erstellen des Corpus und Vorbereitung. Mit Paul Ramisch
 1. Montag, 15.03.2021, 16-18 Uhr: Forschungsfragen entwickeln!: 
 1. Montag, 22.03.2021, 16-18 Uhr: Netzwerkanalysen: Mit Sophie Schneider und Paul Ramisch
-1. Montag, 30.03.2021, 16-18 Uhr: Inhaltliche Analysen: 
+1. Dienstag, 30.03.2021, 16-18 Uhr: Inhaltliche Analysen: 
 
 
 Weitere Infos unter: [https://twitter101dh.github.io/](https://twitter101dh.github.io/)
