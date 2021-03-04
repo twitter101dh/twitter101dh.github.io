@@ -17,7 +17,7 @@ Das Twitter-Labor richtet sich an Einsteiger:innen auf dem Gebiet, die Tweet-Exp
 3. [Netzwerkanalysen](/datensalon3.md): Montag, 22.03.2021, 16-18 Uhr. Mit Sophie Schneider und Paul Ramisch
 4. [Inhaltliche Analysen](/datensalon4.md): Dienstag, 30.03.2021, 16-18 Uhr
 
-## Bewerbung: Call for Tweets: Teilnehmende für Twitter-Superexperiment “BIbliotheken und Covid-19” gesucht #twitter101dh
+## Bewerbung: Call for Tweets: Teilnehmende für Twitter-Superexperiment “Bibliotheken und Covid-19” gesucht #twitter101dh
 Weitere Informationen [hier](/bewerbung.md).
 
 ## Ausführliche Beschreibung des Super-Experiments 
