@@ -120,3 +120,5 @@ youtu.be/jExzEPveKHY
 
 vdHD21:
 https://vdhd2021.hypotheses.org/189
+
+Regular expressions testen: [https://regex101.com/](https://regex101.com/)
